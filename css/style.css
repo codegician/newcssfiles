@@ -1,0 +1,80 @@
+body {
+  background-color: #FFFFFF;
+  color: #0000FF;
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 4em;
+  font-family: Avenir;
+}
+
+h3 {
+  font-size: 2em;
+  line-height: 1.25;
+}
+
+p {
+  font-size: 1em;
+  line-height: 1.75;
+  font-family: avenir;
+}
+
+figcaption {
+  font-size: 1em;
+  font-family: avenir;
+}
+nav {
+  background-color: rgba(0,0,0,.5);
+  float: left;
+  position: fixed;
+  width: 100%;
+}
+
+.logo {
+  margin: 20px;
+  width: 100px;
+}
+
+.large-pic {
+  width: 100%;
+}
+
+.medium-pic {
+  width: 70%;
+}
+
+.left, .right {
+  float: left;
+  width: 50%;
+}
+
+.right {
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  float: right;
+}
+
+li {
+  float: right;
+  padding: 30px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {color: #0070BC;}
+a:active {color: #000000;}
+
+article {
+  padding-top: 100px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 50%;
+}
